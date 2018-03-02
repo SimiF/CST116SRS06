@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID: Vulpix
 
 SRS ID: CST116SRS06  
 
@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left: Rolando 
 
-Partner Right:  
+Partner Right: Casey
 
 ---
 
@@ -23,6 +23,8 @@ Practice your previously learned skills in a group situation.
 
 
 Instructions:  
+
+Name your project "SSD".
 
 This is a project you will work on with a group of 3 (or 4) students.  
 
