@@ -1,7 +1,9 @@
+/* Function that calculates the Sample Standard deviation of an array*/
 #include "stdafx.h"
-#include "cmath"
-#include "samplestandarddeviation.h"
+#include <cmath>
+#include "SAMPLESTANDARDDEVIATION.h"
 
+// Sample Standard Deviation Function
 double SampleStandardDeviation(const size_t n, const int arr[]) // Taillow's function
 {
 	int sum{ 0 };

@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "cmath"
+#include <cmath>
 #include "calculate_ssd.h"
 
 double calculate_ssd(const size_t n, const int data_a[]) // My function
