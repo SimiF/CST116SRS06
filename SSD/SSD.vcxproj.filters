@@ -21,7 +21,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Calculate_SSD.h">
+    <ClInclude Include="calculate_ssd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="samplestandarddeviation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,7 +35,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Calculate_SSD.cpp">
+    <ClCompile Include="calculate_ssd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="samplestandarddeviation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

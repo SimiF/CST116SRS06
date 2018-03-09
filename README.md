@@ -6,13 +6,13 @@ Class ID: Vulpix
 
 SRS ID: CST116SRS06  
 
-Unresolved Issues:  
+Unresolved Issues:
 
-Notes:  
+Notes:
 
-Partner Left: Rolando 
+Partner Left: Taillow 
 
-Partner Right: Casey
+Partner Right: Eevee
 
 ---
 

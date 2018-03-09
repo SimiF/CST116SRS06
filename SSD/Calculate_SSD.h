@@ -1,6 +1,3 @@
-#ifndef Calculate_SSD_h_
-#define Calculate_ssd_h
+#pragma once
 
-double calculate_ssd(const size_t n, double raw_data_a[]);
-
-#endif
+double calculate_ssd(const size_t n, const int data_a[]); // My function
